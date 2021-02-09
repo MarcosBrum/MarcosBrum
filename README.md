@@ -1,10 +1,15 @@
 # Portfolio of Data Science Projects by Marcos Brum
 
-<! <p align=center>-->
-**Data Scientist and Mathematical-Physicist**
-<! </p>-->
+###### Data Scientist and Mathematical-Physicist
 
-## Hi there 👋, welcome to my portfolio. Here you will find links to the Data Science projects I have been working on. The purpose of these projects is to demonstrate my skills in solving business problems using techniques and tools of Data Science.
+<p align=center>
+Hi there 👋, welcome to my portfolio. Here you will find links to the Data Science projects I have been working on. The purpose of these projects is to demonstrate my skills in solving business problems using techniques and tools of Data Science.
+</p>
+
+### Contacts
+[LinkedIn](https://www.linkedin.com/in/brum-marcos/)
+
+[e-mail](mailto:marcos.brum@gmail.com)
 
 <!--
 **MarcosBrum/MarcosBrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
