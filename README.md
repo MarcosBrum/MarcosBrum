@@ -1,15 +1,37 @@
 # Portfolio of Data Science Projects by Marcos Brum
 
-###### Data Scientist and Mathematical-Physicist
-
 <p align=center>
 Hi there 👋, welcome to my portfolio. Here you will find links to the Data Science projects I have been working on. The purpose of these projects is to demonstrate my skills in solving business problems using techniques and tools of Data Science.
 </p>
+
+## Marcos Brum
+
+###### Data Scientist and Mathematical-Physicist
+
+I have been studying Data Science since 2020. After a few months of dedicated study I started working on Data Analysis and Data Science projects to develop and demonstrate my skills. My present job is Lecturer of Calculus and Calculus for Biological Sciences at UFRJ (Campus Duque de Caxias).
+
+I am acquainted with the tools of Data Science used to develop business solutions, from the understanding of the business problem to interpreting the model results in terms of business profit.
+
+I have developed a project which predicts the amount of sales that will occur in the following six weeks at the stores of a large Drugstore chain in Europe. The details of the project are described below.
+
+**Analytical Tools**:
+
+**Data Collecting**: SQL, Postgres
+
+**Data Processing and Analysis**: Python
+
+**Development**: Git, Linux
+
+**Machine Learning**: Classification, Reggression
 
 ### Contacts
 [LinkedIn](https://www.linkedin.com/in/brum-marcos/)
 
 [e-mail](mailto:marcos.brum@gmail.com)
+
+<!-- Everything here will not be exhibited! -->
+
+### Data Science Projects
 
 <!--
 **MarcosBrum/MarcosBrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
