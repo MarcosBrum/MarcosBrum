@@ -24,14 +24,15 @@ I have developed a project which predicts the amount of sales that will occur in
 
 **Machine Learning**: Classification, Reggression, Time Series
 
-### Contacts
+## Contacts
+
 [LinkedIn](https://www.linkedin.com/in/brum-marcos/)
 
 [e-mail](mailto:marcos.brum@gmail.com)
 
 <!-- Everything here will not be exhibited! -->
 
-### Data Science Projects
+## Data Science Projects
 
 <!--
 **MarcosBrum/MarcosBrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
