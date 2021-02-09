@@ -34,6 +34,10 @@ I have developed a project which predicts the amount of sales that will occur in
 
 ## Data Science Projects
 
+[Rossmann Sales forecast](https://github.com/MarcosBrum/Rossmann_store_sales_prediction)
+
+Sales forecast for the stores of the european drugstore chain Rossmann.
+
 <!--
 **MarcosBrum/MarcosBrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
