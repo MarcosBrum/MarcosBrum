@@ -22,7 +22,7 @@ I have developed a project which predicts the amount of sales that will occur in
 
 **Development**: Git, Linux
 
-**Machine Learning**: Classification, Reggression, Time Series
+**Machine Learning**: Classification, Reggression
 
 ## Contacts
 
