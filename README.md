@@ -18,7 +18,9 @@ I have developed a project which predicts the amount of sales that will occur in
 
 **Data Collecting**: SQL, Postgres
 
-**Data Processing and Analysis**: Python
+**Data Processing and Analysis**: Python (Numpy, Pandas, Scikit-Learn, Imbalanced-Learn, XGBoost)
+
+**Data Visualization**: Matplotlib, Seaborn
 
 **Development**: Git, Linux
 
