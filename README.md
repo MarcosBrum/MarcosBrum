@@ -24,7 +24,7 @@ I have developed a project which predicts the amount of sales that will occur in
 
 **Development**: Git, Linux
 
-**Machine Learning**: Classification, Reggression
+**Machine Learning**: Classification, Regression
 
 ## Contacts
 
