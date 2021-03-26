@@ -6,13 +6,11 @@ Hi there 👋, welcome to my portfolio. Here you will find links to the Data Sci
 
 ## Marcos Brum
 
-###### Data Scientist and Mathematical-Physicist
+###### Data Scientist
 
-I have been studying Data Science since 2020. After a few months of dedicated study I started working on Data Analysis and Data Science projects to develop and demonstrate my skills. My present job is Lecturer of Calculus and Calculus for Biological Sciences at UFRJ (Campus Duque de Caxias).
+I am a data scientist experienced in developing business solutions, from the understanding of the business problem to interpreting the model results in terms of business profit.
 
-I have experience in using the tools of Data Science to develop business solutions, from the understanding of the business problem to interpreting the model results in terms of business profit.
-
-I have developed a project which predicts the amount of sales that will occur in the following six weeks at the stores of a large Drugstore chain in Europe. The details of the project are described below.
+I have developed regression and classification problems. The details of each one of them are below.
 
 **Analytical Tools**:
 
@@ -32,9 +30,10 @@ I have developed a project which predicts the amount of sales that will occur in
 
 [e-mail](mailto:marcos.brum@gmail.com)
 
-<!-- Everything here will not be exhibited! -->
+
 
 ## Data Science Projects
+
 
 [Rossmann Sales forecast](https://github.com/MarcosBrum/Rossmann_sales_prediction)
 
@@ -43,6 +42,15 @@ I have developed a project which predicts the amount of sales that will occur in
 The stores of the Rossmann drugstore chain need to be restored and the CEO needs to decide how much is going to be dedicated to the restoration of each one. To support this decision, the Analytics team is asked to present a sales forecast for each store during a period of six weeks, alongside with the total income expected in the chain. This forecast also informs the CEO which store is able to account for its own restoration with the income within this period.
 
 The gross expected income of the majority of stores is in the range between R$5000.00 and R$22000.00. The chain is expected to obtain R$289,822,112.00, with best and worst case scenarios of R$290,808,412.17 and R$288,835,860.27, respectively. These scenarios are predicted using statistical errors (mean absolute percentage error).
+
+
+[Insurance Cross-sell](https://github.com/MarcosBrum/health_insurance_cross_sell)
+
+<img src="https://github.com/MarcosBrum/health_insurance_cross_sell/images/car_insurance.jpg" height="207" width="200">
+
+A health insurance company intends to offer its customers a new product, a vehicle insurance. In order to achieve this purpose efficiently, it gathered some information about their customers and asked if they would be interested in purchasing a new vehicle insurance. This information was passed on to a Data Science Consulting office.
+
+The office delivered a report informing, among all features gathered, the most relevant ones and the probability of purchase from each customer. Qualitatively, the predicted probability provides a lift gain of 2.5, thus reducing the sales cost to 40\%.
 
 <!--
 **MarcosBrum/MarcosBrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
