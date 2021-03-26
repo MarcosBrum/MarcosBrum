@@ -46,7 +46,7 @@ The gross expected income of the majority of stores is in the range between R$50
 
 [Insurance Cross-sell](https://github.com/MarcosBrum/health_insurance_cross_sell)
 
-<img src="https://github.com/MarcosBrum/health_insurance_cross_sell/images/car_insurance.jpg" height="207" width="200">
+<img src="https://github.com/MarcosBrum/health_insurance_cross_sell/blob/pa004_marcos_brum/images/car_insurance.jpg" height="207" width="200">
 
 A health insurance company intends to offer its customers a new product, a vehicle insurance. In order to achieve this purpose efficiently, it gathered some information about their customers and asked if they would be interested in purchasing a new vehicle insurance. This information was passed on to a Data Science Consulting office.
 
