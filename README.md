@@ -6,27 +6,20 @@ Hi there 👋, welcome to my portfolio. Here you will find links to the Data Sci
 
 ## Marcos Brum
 
-###### Data Scientist
+I am a data scientist experienced in developing business solutions, from the understanding of the business problem to interpreting the model results in terms of business value.
 
-I am a data scientist experienced in developing business solutions, from the understanding of the business problem to interpreting the model results in terms of business profit.
-
-I have developed regression and classification problems. The details of each one of them are below.
-
-**Analytical Tools**:
-
-**Data Collecting**: SQL, Postgres
-
-**Data Processing and Analysis**: Python (Numpy, Pandas, Scikit-Learn, Imbalanced-Learn, XGBoost)
-
-**Data Visualization**: Matplotlib, Seaborn
-
-**Development**: Git, Linux
-
-**Machine Learning**: Classification, Regression
+**Skills**:
+**Artificial Intelligence**: Machine/Deep Learning; Quantum Machine Learning; Large Language Models; Natural Language Processing
+**Science**: Physics: Quantum Physics, Relativistic Physics; Mathematics: Functional Analysis, Differential Equations
+**Programming Languages**: Python; JavaScript; C++
+**Technologies**: Qiskit; Git; Docker; LaTeX
+**Languages**: Portuguese, English, German
 
 ## Contacts
 
 [LinkedIn](https://www.linkedin.com/in/brum-marcos/)
+
+[ResearchGate](https://www.researchgate.net/profile/Marcos-Brum)
 
 [e-mail](mailto:marcos.brum@gmail.com)
 
