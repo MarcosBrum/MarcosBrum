@@ -8,20 +8,18 @@ Hi there 👋, welcome to my portfolio. Here you will find links to the Data Sci
 
 I am a data scientist experienced in developing business solutions, from the understanding of the business problem to interpreting the model results in terms of business value.
 
-**Skills**:
-**Artificial Intelligence**: Machine/Deep Learning; Quantum Machine Learning; Large Language Models; Natural Language Processing
-**Science**: Physics: Quantum Physics, Relativistic Physics; Mathematics: Functional Analysis, Differential Equations
-**Programming Languages**: Python; JavaScript; C++
-**Technologies**: Qiskit; Git; Docker; LaTeX
-**Languages**: Portuguese, English, German
+<b>Skills</b>:</br>
+<b>Artificial Intelligence</b>: Machine/Deep Learning; Quantum Machine Learning; Large Language Models; Natural Language Processing</br>
+<b>Science</b>: Physics: Quantum Physics, Relativistic Physics; Mathematics: Functional Analysis, Differential Equations</br>
+<b>Programming Languages</b>: Python; JavaScript; C++</br>
+<b>Technologies</b>: Qiskit; Git; Docker; LaTeX</br>
+<b>Languages</b>: Portuguese, English, German</br>
 
-## Contacts
+### Contacts
 
 [LinkedIn](https://www.linkedin.com/in/brum-marcos/)
 
 [ResearchGate](https://www.researchgate.net/profile/Marcos-Brum)
-
-[e-mail](mailto:marcos.brum@gmail.com)
 
 
 
